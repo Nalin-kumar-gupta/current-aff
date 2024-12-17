@@ -1,0 +1,83 @@
+### **Introduction**  
+
+The Indian Railways, one of the largest rail networks in the world, has embarked on an ambitious **Mission 100% Electrification** to position itself as a **"Green Railway"**. This initiative aims to reduce dependence on diesel, cut carbon emissions, and align with India’s climate commitments such as **net-zero carbon emissions by 2070**.  
+
+However, the article highlights the **hidden costs** and unintended consequences of this policy. It critiques the premature scrapping of **functional diesel locomotives**, reliance on coal-based electricity for "green energy," and the financial burden on the Railways. The term **“greenwashing”** is used to describe how the project prioritizes optics over true sustainability.
+
+---
+
+### **Body**
+
+#### **1. The Mission of Indian Railways: Vision and Intent**  
+- The **Mission 100% Electrification** is driven by two primary goals:  
+   - **Cost Efficiency:** Reducing dependence on imported crude oil.  
+   - **Environmental Sustainability:** Lowering carbon emissions and achieving a **“Green Railway.”**  
+- This initiative aligns with India’s commitments to the **Paris Agreement** and **COP26**, where India pledged to achieve net-zero emissions by 2070 and shift towards clean energy.
+
+#### **2. The Hidden Costs of Electrification**  
+
+**a) Premature Scrapping of Diesel Locomotives:**  
+- The report highlights that **60% of 585 diesel locomotives** identified for replacement still have a **residual life of 15+ years**.  
+- Around **760 diesel locomotives** have already been rendered redundant despite being in good working condition.  
+- This creates **massive economic waste** and mismanagement of resources.  
+
+**b) Financial Burden on Indian Railways:**  
+- Full electrification requires heavy investment, and the financial burden is worsened by scrapping functional diesel assets.  
+- **Strategic locomotives:** Approximately **2,500 diesel locomotives** are essential for **disaster management and strategic operations**, yet they risk becoming redundant.  
+- The Railways also need to electrify **16,000 km of tracks**, which may lead to unsustainable debts and fiscal strain.
+
+**c) Energy Source Paradox – Coal Dependency:**  
+- Although electrification is marketed as an environmentally friendly initiative, nearly **50% of India’s electricity** is generated from **coal-based thermal plants**.  
+- Thus, the shift to electric traction indirectly relies on fossil fuels, defeating the purpose of achieving real carbon neutrality.  
+- The Railways claim of becoming “green” can be misleading, making this a **classic case of greenwashing**.  
+
+**d) Operational and Strategic Challenges:**  
+- **Diesel locomotives** provide greater operational flexibility, especially in remote, disaster-prone, or border areas where electrified networks may fail.  
+- Electrification introduces **vulnerabilities** such as dependence on power supply, which can be disrupted during disasters or conflicts.  
+- Overreliance on electric traction without diesel backup compromises the strategic preparedness of Indian Railways.  
+
+---
+
+#### **3. The Bigger Picture: Sustainable Alternatives**  
+
+While the goal of electrification is noble, it should not come at the cost of resource wastage, financial stress, and operational inefficiency. A more **balanced approach** is needed:  
+
+- **Phased Transition:** Gradually phase out diesel locomotives while maximizing their utility over their full lifespan.  
+- **Green Energy Sources:** Electrification should be powered by **renewable energy** like solar, wind, and hydropower instead of coal-based thermal plants.  
+- **Technological Innovations:** Invest in cleaner technologies for diesel locomotives, such as biofuels, hybrid engines, or hydrogen-powered trains.  
+- **Cost-Benefit Analysis:** Conduct comprehensive economic and environmental audits before scrapping existing infrastructure.  
+
+---
+
+### **Conclusion**  
+
+The Indian Railways’ **Mission 100% Electrification** is a critical step toward achieving India’s **sustainability goals**. However, the current implementation raises concerns about **resource mismanagement**, **financial burden**, and **environmental contradictions** due to coal dependency.  
+
+To ensure genuine progress towards a **“Green Railway”**, India must adopt a **pragmatic approach** that includes:  
+1. Utilizing existing diesel locomotives to their full potential.  
+2. Prioritizing **renewable energy** for powering electrification.  
+3. Balancing operational flexibility with sustainability.  
+
+The Indian Railways must avoid the pitfalls of **greenwashing** and focus on **long-term, holistic solutions** that are both environmentally and economically sustainable.  
+
+---
+
+### **Relevance for UPSC Preparation**  
+
+**1. GS Paper III (Economy and Environment):**  
+   - Infrastructure development and transportation policies.  
+   - Resource optimization and waste management.  
+   - Climate change mitigation strategies and energy security.  
+
+**2. GS Paper II (Governance and Policy):**  
+   - Challenges in policy implementation.  
+   - Role of public infrastructure in national growth and disaster management.  
+
+**3. Essay Writing:**  
+   - Topics such as **“Sustainable Development vs. Economic Realities”** or **“Green Energy: Myth or Reality?”**  
+
+**4. Current Affairs:**  
+   - India’s progress on **COP26 targets** and net-zero emission goals.  
+   - Innovations in clean energy for transportation.  
+
+By addressing the **hidden costs** and contradictions highlighted in the article, aspirants can critically analyze similar policies and suggest balanced, sustainable solutions in their answers.
